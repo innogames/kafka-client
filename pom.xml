@@ -17,7 +17,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <log4j.version>2.7</log4j.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <kafka-junit.version>4.1.0</kafka-junit.version>
         <kafka-clients.version>1.0.0</kafka-clients.version>
     </properties>
